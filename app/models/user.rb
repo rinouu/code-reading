@@ -27,14 +27,3 @@ class User < ApplicationRecord
     SecureRandom.hex(10)
   end
 end
- I. What does this application do? = ❸
- Ⅱ. agenda.rb = ❹
- Ⅲ. article.rb = ❹
- Ⅳ. assign.rb = ❸
- Ⅴ. team.rb = ❹
- Ⅵ.user.rb = ❷
-
-❶ ABC
-❷ BD
-❸ DE
-❹ AC
